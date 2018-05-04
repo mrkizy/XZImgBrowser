@@ -1,5 +1,5 @@
 # XZImgBrowser
-一款仿微博的图片浏览器工具<br>
+一款仿微博的图片浏览器工具<br>实现渐变的放大效果、渐变的位置移动<br>
 <b>使用方法：</b><br>
 1:下载项目，直接将“图片浏览器”文件夹里文件拖到自己的项目里即可使用。<br>
 2:调用方法showViewWithArray:(NSArray *)imgArr beginWithIndex:(NSInteger)index即可实现图片浏览<br>
